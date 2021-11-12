@@ -13,4 +13,7 @@ public class swiftClass{
     public class func two(){
         
     }
+    public class func three(){
+        
+    }
 }
