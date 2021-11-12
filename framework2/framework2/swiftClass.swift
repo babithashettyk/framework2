@@ -10,4 +10,7 @@ public class swiftClass{
     public class func one(){
         
     }
+    public class func two(){
+        
+    }
 }
