@@ -11,7 +11,7 @@ public class swiftClass{
         
     }
     public class func two(){
-        
+        print("in two function")
     }
     public class func three(){
         
