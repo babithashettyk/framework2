@@ -18,6 +18,6 @@ public class swiftClass{
         
     }
     public class func four(){
-        
+        print("in four function")
     }
 }
