@@ -8,7 +8,7 @@
 import Foundation
 public class swiftClass{
     public class func one(){
-        
+        print("in one function")
     }
     public class func two(){
         print("in two function")
