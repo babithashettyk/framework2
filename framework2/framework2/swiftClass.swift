@@ -20,4 +20,7 @@ public class swiftClass{
     public class func four(){
         print("in four function")
     }
+    public class func five(){
+        print("in five function")
+    }
 }
